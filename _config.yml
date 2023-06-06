@@ -83,11 +83,11 @@ author:
   name             : "Laura Petrich"
   avatar           : "profile.png"
   bio              : "PhD Student in Machine Learning and Biomechatronics"
-  location         : "Edmonton"
+  location         : "laurapetrich@ualberta.ca"
   employer         : "University of Alberta"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=y3uln4wAAAAJ&hl=en&oi=sra"
-  email            : "laurapetrich@ualberta.ca"
+  email            : #"laurapetrich@ualberta.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
