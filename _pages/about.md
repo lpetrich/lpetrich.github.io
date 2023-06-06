@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biosketch"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- I am a PhD candidate at the University of Alberta, supervised by [Matthew E. Taylor](https://drmatttaylor.net/) and [Patrick Pilarski](https://sites.ualberta.ca/~pilarski/). I am broadly interested in biomechatronics and machine learning, specifically to build adaptable control systems for upper limb smart prostheses.  -->
+Laura is currently pursuing a Ph.D. in Computing Science under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/) and [Dr. Patrick Pilarski](https://sites.ualberta.ca/~pilarski/). She received a B.Sc. with Honors in Computing Science from the University of Alberta in 2019 and an M.Sc. in Computing Science from the University of Alberta in 2022. Her research interests include reinforcement learning, human-robot interaction, biomechatronics, and assistive robotics. Drawing inspiration from her anatomical studies with [Dr. Pierre Lemelin](https://www.ualberta.ca/medicine/about/people/details.html?n=pierre-lemelin), Laura’s research aims to develop adaptive control methods for smart upper limb prostheses with the goal of increased functionality, usability, reliability, and safety in the real-world.
 
-A data-driven personal website
+During her undergraduate and master’s studies, Laura worked with the [Computer Vision and Robotics Research](http://webdocs.cs.ualberta.ca/~vis/) group led by [Dr. Martin Jägersand](https://webdocs.cs.ualberta.ca/~jag/). She advanced a cohesive perspective on assistive technology by unifying the strengths of robotics research with the specific needs of the intended users. Based on these findings, Laura prototyped a robotic learner that can adjust to the user’s needs through basic feedback, making wheelchair-mounted robotic manipulators more user-friendly.
+
+Before finishing her master’s degree, Laura worked as an Associate Machine Learning Scientist on the Advanced Technology team at [Amii](https://www.amii.ca/) for a year. She developed a machine learning-based decision making system for [Attabotics](https://www.attabotics.com/), which enhanced the efficiency of their fully autonomous robotic warehouse.
+
+In her free time, Laura enjoys nature, playing piano, and board games.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
