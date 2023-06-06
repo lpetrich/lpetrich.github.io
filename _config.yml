@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Machine Learning and Biomechatronics"
   location         : "laurapetrich@ualberta.ca"
-  employer         : "University of Alberta"
+  employer         : #"University of Alberta"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=y3uln4wAAAAJ&hl=en&oi=sra"
   email            : #"laurapetrich@ualberta.ca"
