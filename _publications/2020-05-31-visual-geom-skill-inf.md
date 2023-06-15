@@ -6,7 +6,7 @@ permalink: /publication/2020-05-31-visual-geom-skill-inf
 date: 2020-05-31
 venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'http://lpetrich.github.io/files/ICRA20-visual-geom-skill-inf.pdf'
-citation: 'Jin, J., <b>Petrich, L.</b>, Zhang, Z., Dehghan, M., and Jägersand, M. (2019). &quot;Robot eye-hand coordination learning by watching human demonstrations: a task function approximation approach.&quot; In <i>2019 IEEE International Conference on Robotics and Automation (ICRA)</i>, pp. 6624-6630.'
+citation: 'Jin, J., <b>Petrich, L.</b>, Zhang, Z., Dehghan, M., and Jägersand, M. (2020). &quot;Visual Geometric Skill Inference by Watching Human Demonstration.&quot; In <i>2020 IEEE International Conference on Robotics and Automation (ICRA)</i>, pp. 8985-8991.'
 ---
 
 **Abstract**
