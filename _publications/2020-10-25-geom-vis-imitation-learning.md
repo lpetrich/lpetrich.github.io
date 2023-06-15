@@ -5,7 +5,7 @@ permalink: /publication/2020-10-25-geom-vis-imitation-learning
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-10-25
 venue: '2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'http://lpetrich.github.io/files/IROS20-geom-vix-imitation-learning.pdf'
+paperurl: 'http://lpetrich.github.io/files/IROS20-geom-vis-imitation-learning.pdf'
 citation: 'Jin, J., <b>Petrich, L.</b>, Dehghan, M., and Jägersand, M. (2020). &quot;A Geometric Perspective on Visual Imitation Learning.&quot; In <i>2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, pp. 5194-5200.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future workssssss -->
