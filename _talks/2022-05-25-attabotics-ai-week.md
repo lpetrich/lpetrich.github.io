@@ -2,9 +2,9 @@
 title: "Advancing Artificial Intelligence with Attabotics"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2022-05-16-attabotics-ai-week
+permalink: /talks/2022-05-25-attabotics-ai-week
 venue: "AI Week, Alberta Machine Intelligence Institute (Amii)"
-date: 2022-05-16 
+date: 2022-05-25 
 location: "Edmonton, Alberta"
 ---
 
