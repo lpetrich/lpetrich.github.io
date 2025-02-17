@@ -9,13 +9,18 @@ redirect_from:
 ---
 
 <!-- I am a PhD candidate at the University of Alberta, supervised by [Matthew E. Taylor](https://drmatttaylor.net/) and [Patrick Pilarski](https://sites.ualberta.ca/~pilarski/). I am broadly interested in biomechatronics and machine learning, specifically to build adaptable control systems for upper limb smart prostheses.  -->
-Laura is currently pursuing a Ph.D. in Computing Science under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/) and [Dr. Patrick Pilarski](https://sites.ualberta.ca/~pilarski/). She received a B.Sc. with Honors in Computing Science from the University of Alberta in 2019 and an M.Sc. in Computing Science from the University of Alberta in 2022. Her research interests include reinforcement learning, human-robot interaction, biomechatronics, and assistive robotics. Drawing inspiration from her anatomical studies with [Dr. Pierre Lemelin](https://www.ualberta.ca/medicine/about/people/details.html?n=pierre-lemelin), Laura’s research aims to develop adaptive control methods for upper limb prostheses with the goal of increased functionality, usability, reliability, and safety in the real-world.
+
+My research focuses on exploring context-aware machine learning, specifically dendritic gated networks, a new neural network architecture, to improve the control of neuroprostheses for individuals with upper limb amputation. I am interested in developing robust and adaptable control algorithms that can accurately interpret muscle activation patterns in different contexts (e.g., across different limb positions and muscle contractions). To enable the prosthesis to adapt to the user's changing needs and preferences over time, we are exploring continual learning in the real-world. This involves developing algorithms that allow the prosthesis to learn continuously from new biosignal data and experiences without forgetting previously acquired knowledge. Additionally, I am interested in shared decision-making frameworks that allow for seamless interactions between the neuroprosthetic and the user, enabling a more intuitive and collaborative control approach. 
+
+I am currently pursuing a PhD in Computing Science under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/) and [Dr. Patrick Pilarski](https://sites.ualberta.ca/~pilarski/) in the IRL and BLINC labs, respectively. I received a BSc with Honors in Computing Science from the University of Alberta in 2019 and an MSc in Computing Science from the University of Alberta in 2022. 
+
+<!-- Her research interests include reinforcement learning, human-robot interaction, biomechatronics, and assistive robotics. Drawing inspiration from her anatomical studies with [Dr. Pierre Lemelin](https://www.ualberta.ca/medicine/about/people/details.html?n=pierre-lemelin), Laura’s research aims to develop adaptive control methods for upper limb prostheses with the goal of increased functionality, usability, reliability, and safety in the real-world.
 
 During her undergraduate and master’s studies, Laura worked with the [Computer Vision and Robotics Research](http://webdocs.cs.ualberta.ca/~vis/) group led by [Dr. Martin Jägersand](https://webdocs.cs.ualberta.ca/~jag/). She advanced a cohesive perspective on assistive technology by unifying the strengths of robotics research with the specific needs of the intended users. Based on these findings, Laura prototyped a robotic learner that can adjust to the user’s needs through basic feedback, making wheelchair-mounted robotic manipulators more user-friendly.
 
 Before finishing her master’s degree, Laura worked as an Associate Machine Learning Scientist on the Advanced Technology team at [Amii](https://www.amii.ca/) for a year. She developed a machine learning-based decision making system for [Attabotics](https://www.attabotics.com/), which enhanced the efficiency of their fully autonomous robotic warehouse.
 
-In her free time, Laura enjoys nature, playing piano, and board games.
+In her free time, Laura enjoys nature, playing piano, and board games. -->
 
 <!-- A data-driven personal website
 ======
