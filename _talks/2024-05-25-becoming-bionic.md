@@ -1,7 +1,7 @@
 ---
 title: "Becoming Bionic"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/2024-05-25-becoming-bionic
 venue: "Mila Robot Learning Seminar"
 date: 2024-05-25

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Artificial Intelligence to Disrupt Logistics and Warehousing Operations"
 collection: talks
-type: "Talk"
+type: "Expert panel talk"
 permalink: /talks/2022-10-19-attabotics-logistics-warehousing
 venue: "Supply Change Conference and Expo"
 date: 2022-10-19
