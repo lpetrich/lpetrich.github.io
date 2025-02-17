@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Laura Petrich"
 title_separator          : "-"
-name                     : &name "Laura Petrich"
-description              : &description "Ph.D. Student in Machine Learning and Biomechatronics"
+name                     : &name "Laura C. Petrich"
+description              : &description "PhD Student in Machine Learning and Neuroprosthetics"
 url                      : https://lpetrich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lpetrich/lpetrich.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laura Petrich"
+  name             : "Laura C. Petrich"
   avatar           : "lpetrich-profile.jpg"
-  bio              : "Ph.D. Student in Machine Learning and Biomechatronics"
+  bio              : "PhD Student in Machine Learning and Neuroprosthetics"
   location         : "laurapetrich@ualberta.ca"
   employer         : #"University of Alberta"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lpetrich/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
