@@ -27,8 +27,8 @@ Work experience
   * Research focus: Machine learning for neuroprosthetic control; continual learning; anatomical studies of the upper limb; and human in the loop control.
 
 * 11/2021 - 12/2022: Associate Machine Learning Scientist
-  * Advanced Technology Team, Alberta Machine Intelligence Institute (Amii)
-  * Duties included: Designed and implemented a machine learning-based optimization system for an autonomous robotic warehouse, resulting in a 200% improvement in operational throughput.
+  * Attabotics Project, Advanced Technology Team, Alberta Machine Intelligence Institute (Amii)
+  * Project focus: Designed and implemented a machine learning-based optimization system for an autonomous robotic warehouse, resulting in a 200% improvement in operational throughput.
 
 * 01/2018 - 12/2022: Research Assistant
   * Computer Vision and Robotics Research Group, University of Alberta
