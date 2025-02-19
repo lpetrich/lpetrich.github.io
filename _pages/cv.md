@@ -20,7 +20,7 @@ Education
 
 * Bachelor of Science with Honors in Computing Science, University of Alberta, 2020
 
-Work experience
+Work Experience
 ======
 * 01/2023 - Present: Research Assistant
   * Intelligent Robot Learning (IRL) and Bionic Limbs for Improved Natural Control (BLINC) labs, University of Alberta
@@ -61,6 +61,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
+Student Supervision
 ======
-* Reviewer for... -->
+* 05/2024 - 09/2024: Jasper Eng, BSc in Computing Science student
+  * Project: Optimizing limb position selection for efficient myoelectric control training in the BLINC lab.
+
+* 05/2023 - 09/2023: Justin Francis, BSc in Computing Science student
+  * Project: Development of robotic software and hardware to support graduate student research in the IRL lab. 
+
+
+
+<!-- Service and leadership
+====== -->
+<!-- * Reviewer for... -->
