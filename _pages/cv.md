@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Computing Science, University of Alberta, 2028 (expected)
+* Master of Science in Computing Science, University of Alberta, 2023
+* Bachelor of Science with Honors in Computing Science, University of Alberta, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 11/2021 - 12/2022: Associate Machine Learning Scientist
+  * Amii
+  * Duties included: Designed and implemented a machine learning-based optimization system for autonomous robotic warehouses, resulting in a 200% improvement in operational throughput.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for...
