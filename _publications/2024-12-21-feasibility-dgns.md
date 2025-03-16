@@ -7,7 +7,7 @@ date: 2024-12-21
 venue: '2024 6th International Conference on Neurorehabilitation (ICNR)'
 paperurl: 'http://lpetrich.github.io/files/ICNR24-feasibility-dgns.pdf'
 citation: '<b>Petrich, L. C.</b>, Williams, H. E., Günther, J., Taylor, M. E., and Pilarski, P.
-M. (2024). &quot;Feasibility Study of Dendritic Gated Networks for Upper Limb Prosthetic Control..&quot; <i>In 2024 6th International Conference on Neurorehabilitation (ICNR)</i>.'
+M. (2024). &quot;Feasibility Study of Dendritic Gated Networks for Upper Limb Prosthetic Control.&quot; <i>In 2024 6th International Conference on Neurorehabilitation (ICNR)</i>.'
 ---
 <!-- Need comment here for some reason otherwise Abstract word shows on main publications page -->
 
