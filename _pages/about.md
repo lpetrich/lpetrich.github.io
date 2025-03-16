@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biosketch"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 I am interested in context-aware machine learning for neuroprosthetic control, focusing on dendritic gated networks and continual learning. My goal is to create robust, adaptable algorithms that interpret muscle activation patterns for intuitive, collaborative control of upper limb prostheses. 
 
-Supervised by Dr. Matthew E. Taylor and Dr. Patrick M. Pilarski (IRL & BLINC labs), I'm currently pursuing a PhD in Computing Science at the University of Alberta. 
+Supervised by [Dr. Matthew E. Taylor](https://drmatttaylor.net/) and [Dr. Patrick Pilarski](https://pilarski.github.io/) (IRL & BLINC labs), I'm currently pursuing a PhD in Computing Science at the University of Alberta. 
 
 <!-- I am currently pursuing a PhD in Computing Science under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/) and [Dr. Patrick Pilarski](https://sites.ualberta.ca/~pilarski/) in the IRL and BLINC labs, respectively. I received a BSc with Honors in Computing Science from the University of Alberta in 2019 and an MSc in Computing Science from the University of Alberta in 2022.  -->
 
